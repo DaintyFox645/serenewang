@@ -1,0 +1,169 @@
+a {
+  font-family: "Anonymous Pro", Courier, monospace;
+  color: #3C403D;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #39603D;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  background-color: #FFFFFF;
+}
+
+h1 {
+  margin-top: 0;
+  position: absolute;
+  left: 40%;
+  bottom: 40%;
+  font-family: "Great Vibes", cursive, monospace;
+  color: #3C403D;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: "Alegreya", Courier, monospace;
+  color: #39603D;
+}
+
+h3 {
+  font-family: "Alegreya", Courier, monospace;
+  color: #39603D;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #DADED4;
+  border-width: 10px;
+  width: 10%;
+  margin: 100px auto;
+  clear: both;
+}
+
+nav {
+  background-color: #A3BCB6;
+  font-family: "Alegreya", Courier, monospace;
+  padding: 20px;
+}
+
+p {
+  font-family: "Anonymous Pro", Courier, monospace;
+  color: #3C403D;
+}
+
+.books {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #A3BCB6;
+}
+
+.button {
+   background: #39603D;
+   background-image: -webkit-linear-gradient(top, #39603D, #A3BCB6);
+   background-image: -moz-linear-gradient(top, #39603D, #A3BCB6);
+   background-image: -ms-linear-gradient(top, #39603D, #A3BCB6);
+   background-image: -o-linear-gradient(top, #39603D, #A3BCB6);
+   background-image: -webkit-gradient(to bottom, #39603D, #A3BCB6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: "Anonymous Pro", Courier, monospace;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #3C403D;
+   -moz-box-shadow: 1px 1px 20px 0 #3C403D;
+   box-shadow: 1px 1px 20px 0 #3C403D;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button:hover {
+   background: #A3BCB6;
+   background-image: -webkit-linear-gradient(top, #A3BCB6, #DADED4);
+   background-image: -moz-linear-gradient(top, #A3BCB6, #DADED4);
+   background-image: -ms-linear-gradient(top, #A3BCB6, #DADED4);
+   background-image: -o-linear-gradient(top, #A3BCB6, #DADED4);
+   background-image: -webkit-gradient(to bottom, #A3BCB6, #DADED4);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+   color: #FFFFFF;
+}
+
+.cello {
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.design {
+  text-align: left;
+  margin-bottom: 100px;
+}
+
+.intro {
+  margin-right: 20px;
+}
+
+.job {
+  position: absolute;
+  left: 40%;
+  bottom: 40%;
+  font-family: "Anonymous Pro", Courier, monospace;
+}
+
+.music {
+  text-align: right;
+}
+
+.plant {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.typewriter {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin: 20px;
+}
+
+
+
+
+
+/* Olive: #A3BCB6
+
+Green Leaf: #39603D
+
+Brown Grey: #3C403D
+
+Tanly: #DADED4
+
+White: #FFFFFF */
